@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "docucraft": {
+      "command": "python",
+      "args": [
+        "-m",
+        "docucraft_mcp.server"
+      ],
+      "env": {}
+    }
+  }
+}
